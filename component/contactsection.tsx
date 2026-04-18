@@ -28,7 +28,7 @@ const SK_BASE   = "#f2c8a8";
 const SK_SEL    = "#f5d0b4";
 const HR_COL    = "#2a1c10";
 
-/* ── Mini SVGs ── */
+
 function MiniHead({ stage, selected }: { stage: number; selected: boolean }) {
   const cid = `mh-${stage}-${selected ? "s" : "u"}`;
   const sk  = selected ? SK_SEL : SK_BASE;
