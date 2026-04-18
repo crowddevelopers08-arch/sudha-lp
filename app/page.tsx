@@ -11,10 +11,12 @@ import Review from "@/component/review";
 import Footer from "@/component/footer";
 import FloatingWidget from "@/component/floatingwidget";
 import ConsultationPopup from "@/component/consultationpopup";
+import MobileActionBar from "@/component/fat-mobile-action-bar";
 
 export default function Home() {
   return (
     <>
+      <MobileActionBar />
       <FloatingWidget />
       <ConsultationPopup />
       <Navbar />

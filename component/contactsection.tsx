@@ -14,11 +14,11 @@ const HAIR_STAGE_IMAGES = [
   "/st5-5.jpeg",
 ];
 const SKIN_STAGE_IMAGES = [
-  "/st1.png",
-  "/image.png",
-  "/image1.png",
-  "/image2.png",
-  "/st5.png",
+  "/images1.png",
+  "/images2.png",
+  "/images3.png",
+  "/images4.png",
+  "/images5.png",
 ];
 const SAGE      = "#5e9a71";
 const SAGE_DEEP = "#4f8562";
